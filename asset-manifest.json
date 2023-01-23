@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/denvudd/invite-app.github.io.git/static/css/main.cd5d95a0.css",
-    "main.js": "/denvudd/invite-app.github.io.git/static/js/main.8018bd14.js",
-    "index.html": "/denvudd/invite-app.github.io.git/index.html",
-    "main.cd5d95a0.css.map": "/denvudd/invite-app.github.io.git/static/css/main.cd5d95a0.css.map",
-    "main.8018bd14.js.map": "/denvudd/invite-app.github.io.git/static/js/main.8018bd14.js.map"
+    "main.css": "/invite-app.github.io/static/css/main.cd5d95a0.css",
+    "main.js": "/invite-app.github.io/static/js/main.8018bd14.js",
+    "index.html": "/invite-app.github.io/index.html",
+    "main.cd5d95a0.css.map": "/invite-app.github.io/static/css/main.cd5d95a0.css.map",
+    "main.8018bd14.js.map": "/invite-app.github.io/static/js/main.8018bd14.js.map"
   },
   "entrypoints": [
     "static/css/main.cd5d95a0.css",
